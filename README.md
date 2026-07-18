@@ -49,6 +49,7 @@ const youssef = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [🎙️ **DreamStage**](https://github.com/YoussefTarekSE/DreamStage) | AI producer for people who've never touched a DAW — record a vocal in the browser and get a fully produced, mixed & mastered song back. Vocal-following beat generation (neural / MusicGen / real-instrument synthesis tiers), unlimited branchable **Producer Cuts** with taste learning, and AI coaching | Next.js, FastAPI, Supabase, Python, AI Audio Pipeline |
 | [🏠 **Servio**](https://yousseftarekse.github.io/SERVIO-Showcase/) *(Graduation Project)* | Full-stack web & mobile marketplace connecting homeowners with verified service providers. Features a **KNN + NLP AI recommendation engine** and an **XGBoost cost estimator**, secured with JWT auth & role-based access control | React.js, Flutter, Node.js, Python, Scikit-Learn, XGBoost, MongoDB, JWT |
 | 📚 **Book Store Platform** | Full-stack e-commerce with user auth & dynamic catalogue. Migrated backend PHP → Java J2EE with full regression testing post-migration — zero defects | Java J2EE, PHP, JavaScript |
 | 🛒 **Supermarket Management System** ⭐ *Faculty Best Project Nominee* | Real-time dashboard with QR inventory scanning, receipt printing & statistical sales dashboards | R, Shiny, ggplot2 |
